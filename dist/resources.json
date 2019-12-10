@@ -1,0 +1,87 @@
+{
+    "resources": [
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "model/oRECredentails.js"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "controller/Main.controller.js"
+        },
+        {
+            "name": "controller/Imports.controller.js"
+        },
+        {
+            "name": "controller/Configuration.controller.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "controller/Main-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/oRECredentails-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Imports-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Configuration-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../../sap-ui-version.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "view/Main.view.xml"
+        },
+        {
+            "name": "view/Imports.view.xml"
+        },
+        {
+            "name": "view/Configuration.view.xml"
+        },
+        {
+            "name": "i18n/AppIcon1.ico"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "index.html"
+        }
+    ]
+}
